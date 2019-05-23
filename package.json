@@ -25,10 +25,10 @@
     "cli"
   ],
   "dependencies": {
+    "highlight.js": "9.12.x",
+    "marked": "^0.6.2",
     "mustache": "2.3.x",
-    "marked": "0.3.x",
-    "optimist": "0.6.x",
-    "highlight.js": "9.12.x"
+    "optimist": "0.6.x"
   },
   "devDependencies": {
     "mocha": "5.1.x",
